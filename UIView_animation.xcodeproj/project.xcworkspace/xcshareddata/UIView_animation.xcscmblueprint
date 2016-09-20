@@ -1,0 +1,26 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "27f5a62d-baab-3149-a80f-c526a42e61e1++4557",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+    "27f5a62d-baab-3149-a80f-c526a42e61e1++4557" : {
+      "DVTSourceControlWorkingCopyRepositoryTagsLocationKey" : "tags",
+      "DVTSourceControlWorkingCopyRepositoryPrimaryBranchLocationKey" : "trunk"
+    }
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "27f5a62d-baab-3149-a80f-c526a42e61e1++4557" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "464D3544-23E1-4D54-8F6B-38812CEFBE84",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "27f5a62d-baab-3149-a80f-c526a42e61e1++4557" : "121%EF%BC%88%E6%96%B0%E5%81%A5%E5%BA%B7121%EF%BC%89\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "UIView_animation",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "WanbuIOS\/WanbuIOS\/Wanbu_Setting\/UIView_animation\/UIView_animation.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "http:\/\/192.168.92.177:81\/svn\/Develop",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Subversion",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "27f5a62d-baab-3149-a80f-c526a42e61e1++4557"
+    }
+  ]
+}
